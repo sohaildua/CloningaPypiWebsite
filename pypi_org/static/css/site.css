@@ -1,0 +1,176 @@
+.title {
+    font-weight: bold
+}
+
+.body{
+    color:#222;
+    background: #fff;
+    margin:0px;
+    padding:0px;
+    font-family: Source Sans Pro,Helvetica,Arial,sans-serif;
+    font-size:17px;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+a:visited {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+
+a:active {
+    text-decoration: none;
+}
+
+
+nav {
+
+
+    padding: 10px;
+    font-size: 20px;
+    color: #fff;
+    height: 65px;
+    background-color: #0073b7;
+}
+
+
+a {
+    color: blue;
+    font-weight: bold;
+}
+
+nav > a {
+    color: white
+}
+
+.hero {
+    background-color: #0073b7;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+
+.hero h1 {
+    font-size: 24px
+
+}
+
+.hero-inner {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px
+}
+
+.hero a {
+    color: white;
+    text-decoration: underline;
+}
+
+.hero-inner h1 {
+    margin-bottom: 30px;
+}
+
+.form-control{
+    display: inline-block;
+    border-radius:2px;
+    font-size:20px;
+    padding:20px
+}
+
+.pypi-stats{
+    padding:10px 0px;
+    background-color:#ececec;
+    text-align:center;
+    border-bottom:1px solid red;
+    border-top:1px solid red;
+
+}
+
+.pypi-stats .stats{
+    display: inline-block;
+    min-width:170px;
+    padding:10px;
+    font-size:16px;
+    color:red;
+}
+
+.project-list .subtitle{
+    font-style: italic;
+}
+
+.project-list h2{
+    font-size:24px;
+    font-weight:bold;
+}
+
+.project-list .project{
+    border:1px solid #d3d3d3;
+    padding:10px;
+    background-color:#ececec;
+    min-height: 45px;
+    margin-top:15px;
+    color:black;
+    margin-bottom: 15px
+}
+
+.project-list .project .title{
+    font-size:20px;
+}
+
+.project-list .project a{
+    color:#006dad;
+}
+
+.project-list .project .desc{
+    font-size:16px;
+    font-weight:normal;
+    font-style:italic;
+}
+
+code {
+  background: #fff;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  margin: 0 0.3rem;
+}
+#navbarSupportedContent{
+    background-color: #006dad;
+    padding:10px
+}
+
+
+#navbarSupportedContent li{
+    font-size:16px;
+    font-family: Source Sans Pro,Helvetica,Arial,sans-serif;
+    color:white
+}
+
+
+
+
+footer {
+    margin-top: 50px;
+    padding: 30px;
+    text-align: center;
+    color: blue;
+    background-color:orange;
+
+}
+
+footer a {
+    color: #2495f2;
+}
